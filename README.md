@@ -1,7 +1,7 @@
 ### Hi, I'm Oskar 👋
 
 Platform architect at [Minerva](https://useminerva.com), based in Warsaw.
-I build AI products end to end, from the idea to production, and I'm always looking for the most efficient way to run them: faster, cheaper, simpler. Right now that's a platform that reads public tenders and matches them to the companies that should bid.
+I build AI products end to end, from the idea to production, and I'm always looking for the most efficient way to run them: faster, cheaper, simpler. Right now I'm building a platform that reads public tenders and matches them to the companies that should bid.
 
 **What I work on**
 
